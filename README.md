@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Tushar Fodse 👋
 
 I'm a passionate software developer who loves building innovative, scalable, and secure web applications using technologies like **JavaScript**, **React**, **Node.js**, **Python**, and **MongoDB**. I thrive in collaborative environments and always look for new challenges.
 
