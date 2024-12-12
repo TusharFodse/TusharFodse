@@ -25,6 +25,10 @@ I'm a passionate software developer who loves building innovative, scalable, and
 - [Email](tusharfodse@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/tushar-fodse-093963329))
 
+---
+## 📍 Currently Looking for Internship Opportunities
+I’m a passionate developer working with **React**, **Node.js**,**Java**,**Python**,**MongoDB** And **AI And Machin Learning**. I am actively seeking **internship opportunities** to gain hands-on experience and contribute to open-source projects. Feel free to reach out if you're looking for an intern!
+
 
 
 
