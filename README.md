@@ -5,12 +5,13 @@ I'm a passionate software developer who loves building innovative, scalable, and
 ---
 
 ## 🚀 Skills & Technologies:
-- **Languages**: JavaScript, Python, Java, React
-- **Frameworks**: React, Node.js, Express.js, Flask
+- **Languages**:  Python, Java, C
+- **Frameworks**: React, AngularJS,Angular2+, Express.js, Flask
 - **Databases**: MongoDB, MySQL
-- **Tools**: Git, Docker, Jenkins, VS Code
+- **Tools**: Git, Docker, Jenkins,webRTC,Servelent
 - **API Integration**: RESTful APIs, GraphQL
 - **Cloud**: AWS, Firebase
+- **Web Development ** :MERN Stack
 
 ---
 
